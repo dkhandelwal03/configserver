@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: baz12
+foo: baz12333
 bar: test value bar
 vault: valut info
 
